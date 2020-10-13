@@ -1,0 +1,73 @@
+---------------------------------------------------------------------------------------------------------------------
+Zadanie: Wnioski z pracy w zespole:
+---------------------------------------------------------------------------------------------------------------------
+1.Ile osób brało udział w projekcie? Ile czasu trwał projekt i co było zadaniem w projekcie?
+W projekcie udział brało 5 osób, projekt trwał 4 tygodnie.
+Zadaniem była implementacja prostego REST-owego sklepu internetowego bez warstwy frontendowej.
+
+2.Jak była zorganizowana komunikacja w zespole i podział zadań na poszczególne osoby?
+Komunikacja była oparta na codziennym kontakcie na czacie oraz raz w tygodniu rozmowa zespołu przez Skype.
+Uczestnicy sami wybierali sobie zadania online w metodologii Kanban korzystajac z Jiry.
+
+3.W jaki sposób dbaliście o jakość i spójność wynikowego kodu projektu?
+Pracowaliśmy na swoich branchach (każdy task na osobnym branchu). 
+Staraliśmy się robić code review innym osobom.
+Pisaliśmy Daily z codziennej pracy z informacją co bedziemy robić dnia następnego.
+
+4.Co było największym problemem w pracy zespołowej i jak sobie z tym poradziliście?
+Chyba najwięszkym problemem była "niezgrana" komunikacja - różne osoby pracowały w o różnych porach dnia, co powodowało, 
+że czas odpowiedzi na zadane pytanie przeciągał się.
+W razie kłopo†ów można było pisać na czacie ogólnym lub bezpośrednio do mentora.
+
+5.Jakie widzisz korzyści z pracy zespołowej w tym projekcie?
+Można zaobserwować jak podchodzi do problemu inna osoba. 
+Mozna pomagać sobie w razie problemów i motywować się nawzajem.
+
+6.Co było dla Ciebie największym wyzwaniem?
+Chyba code review tasków realizowanych przez inne osoby.
+Trudno było znaleźć czas i chęci na podjęcie się code review.
+
+7.Gdybyś zaczynał projekt od zera, co byś poprawił lub zrobił inaczej?
+Wybieranie nowego taska dopiero po przeniesiu aktualnego do sekcji DONE.
+Więcej zaangażowania uczestników w code review.
+
+-------------------------------------------------------------------------------------------------------------------------
+Zadanie: Twój udział w pracach zespołu:
+-------------------------------------------------------------------------------------------------------------------------
+1.JDP200902-2 GroupController - wstępna implementacja endpointów:
+https://projects.kodilla.com/browse/JDP200902-2
+Status: DONE
+Points: 5
+
+2.JDP200902-9 OrderController - testy endpointów:
+https://projects.kodilla.com/browse/JDP200902-9
+Status: DONE
+Points: 5
+
+3.JDP200902-14 Encja Cart - implementacja:
+https://projects.kodilla.com/browse/JDP200902-14
+Status: DONE
+Points: 5
+
+4.JDP200902-17 Encja Product - testy:
+https://projects.kodilla.com/browse/JDP200902-17
+Status: DONE
+Points: 5
+
+5.JDP200902-27 TEST Marcin:
+https://projects.kodilla.com/browse/JDP200902-27
+Status: DONE
+Points: 1
+
+6. JDP200902-25 UserController - rzeczywista implementacja metod:
+https://projects.kodilla.com/browse/JDP200902-25
+Status: IN PROGRESS
+Points: 5
+
+-----------------------------------------------------------------------------------------------------
+PODSUMOWANIE:
+-----------------------------------------------------------------------------------------------------
+1.Liczba zrealizowanych zadań, tzn. tych ze statusem "Done": 5
+2.Suma "Project points" za zadania zrealizowane: 21
+3.Liczba zadań rozpoczętych (poza zrealizowanymi), tzn. w których rozpoczęły się prace: 1
+4.Suma "Project points" za zadania rozpoczęte: 5
